@@ -416,3 +416,17 @@ font-size: 0.85em;
 #talks h3{
 	color: #586069
 }
+.perso_pic {
+    display: inline-block;
+    width: 30%;
+    height: 100%;
+    text-align: center;
+    float: left;
+}
+
+.perso_info {
+    margin-top: 5px;
+    display: inline-block;
+    width: 65%;
+    height: 100%;
+}
